@@ -1,0 +1,118 @@
+div ul li {
+	list-style: none;
+	display: inline-table;
+	font-family: Verdana;
+	font-weight: bolder;
+	text-align: center;
+	padding: 20px;
+
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.color-letter{
+	font-family: Verdana;
+	color: #EFFBF8;
+}
+
+.menu {
+	text-align: center;	
+	padding-top:40px;
+	padding-bottom: 5px;	
+}
+
+.cubierta {
+background-image: url(../images/background.jpg);
+width: 100%;
+height: 60%;
+}
+
+#hashtag {
+	width: 5%;
+	height: 5%;
+	margin-left: 48%;
+	padding-top: 45px;
+}
+
+#letter1 {
+font-family: Verdana;
+font-weight: bolder;
+font-size: 25px;
+color: #EFFBF8;
+text-align: center;
+padding: 20px;
+}
+
+#letter2 {
+font-family: Verdana;
+font-weight: bolder;
+font-size: 15px;
+color: #EFFBF8;
+text-align: center;
+padding: 20px;
+padding-bottom: 200px;
+}
+
+article {
+	background-image: url(../images/tile1.png);
+}
+
+.pink {
+font-family: Verdana;
+color: #B404AE;
+font-size: bolder;
+text-align: center;
+padding-top: 40px;
+padding-bottom: 20px;
+}
+
+.subs1 {
+font-size: 30px;
+}
+
+.subs2 {
+	font-size: 20px;
+	padding-top: 0;	
+}
+
+#profile {
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-left: 0;
+}
+
+.marco {
+	border:2px solid #BDBDBD;
+	padding:5px;
+}
+
+.description {
+	text-align: justify;
+	position: absolute;
+	margin-left: 15px;
+}
+
+.kitten {
+	position: relative;
+	display: inline-block;
+	height: 20%;
+	width:  20%;
+	border-radius: 100%;
+	border: 2px  solid #F781F3;
+	padding: 3px;
+	margin-left: 30px;
+}
+
+footer {
+	background-image: url(../images/tile2.png);
+}
+
+.redes {
+	padding: 20px;
+	margin-left: 25%;
+	padding: 20px;
+}
